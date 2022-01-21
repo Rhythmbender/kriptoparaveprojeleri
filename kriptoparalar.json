@@ -1,14 +1,14 @@
 [{
 "KriptoAdi": "Bitcoin",
 "CikisYili": "2008",
-"ResimURL": "https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/btc.jpg",
+"ResimURL": "https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/btclogo.jpg",
 "Turu": "Coin"
 },
  {
  "KriptoAdi": "Ethereum",
  "CikisYili": "2014",
  "ResimURL":
-"https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/btc.jpg",
+"https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/btclogo.jpg",
  "Turu": "Coin"
 },
  {
