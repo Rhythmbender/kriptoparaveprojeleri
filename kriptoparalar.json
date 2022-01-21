@@ -8,21 +8,21 @@
  "KriptoAdi": "Ethereum",
  "CikisYili": "2014",
  "ResimURL":
-"https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/btclogo.jpg",
+"https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/eth.jpg",
  "Turu": "Coin"
 },
  {
  "KriptoAdi": "Dent",
  "CikisYili": "2017",
  "ResimURL":
-"https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/btc.jpg",
+"https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/dent.png",
  "Turu": "Token"
 },
  {
  "KriptoAdi": "Chiliz",
  "CikisYili": "2018",
  "ResimURL":
-"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/beyza.png",
+"https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/chz.png",
  "Turu": "Token"
 },
 
@@ -30,7 +30,7 @@
  "KriptoAdi": "AC Milan Token",
  "CikisYili": "2019",
  "ResimURL":
-"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/beyza.png",
+"https://github.com/Rhythmbender/kriptoparaveprojeleri/blob/main/acm.png",
  "Turu": "Token"
 },
 
@@ -38,6 +38,6 @@
  "KriptoAdi": "Tether",
  "CikisYili": "2014",
  "ResimURL":
-"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/beyza.png",
+"https://github.com/Rhythmbender/kriptoparaveprojeleri/blob/main/teth.jpg",
  "Turu": "Stable Coin"
 }]
