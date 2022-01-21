@@ -1,0 +1,43 @@
+[{
+"KriptoAdi": "Bitcoin",
+"CikisYili": "2008",
+"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r0.vrf",
+"Turu": "Coin"
+},
+ {
+ "KriptoAdi": "Ethereum",
+ "CikisYili": "2014",
+ "ResimURL":
+"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r1.vrf",
+ "Turu": "Coin"
+},
+ {
+ "KriptoAdi": "Dent",
+ "CikisYili": "2017",
+ "ResimURL":
+"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/muhammet.png",
+ "Turu": "Token"
+},
+ {
+ "KriptoAdi": "Chiliz",
+ "CikisYili": "2018",
+ "ResimURL":
+"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/beyza.png",
+ "Turu": "Token"
+},
+
+{
+ "KriptoAdi": "AC Milan Token",
+ "CikisYili": "2019",
+ "ResimURL":
+"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/beyza.png",
+ "Turu": "Token"
+},
+
+{
+ "KriptoAdi": "Tether",
+ "CikisYili": "2014",
+ "ResimURL":
+"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/beyza.png",
+ "Turu": "Stable Coin"
+}]
