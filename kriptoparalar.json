@@ -1,21 +1,21 @@
 [{
 "KriptoAdi": "Bitcoin",
 "CikisYili": "2008",
-"ResimURL": "https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r0.vrf",
+"ResimURL": "https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/btc.jpg",
 "Turu": "Coin"
 },
  {
  "KriptoAdi": "Ethereum",
  "CikisYili": "2014",
  "ResimURL":
-"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/r1.vrf",
+"https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/btc.jpg",
  "Turu": "Coin"
 },
  {
  "KriptoAdi": "Dent",
  "CikisYili": "2017",
  "ResimURL":
-"https://raw.githubusercontent.com/cagataymuhammet/medipolhocalistele/main/muhammet.png",
+"https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/btc.jpg",
  "Turu": "Token"
 },
  {
