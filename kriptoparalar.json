@@ -8,7 +8,7 @@
  "KriptoAdi": "Ethereum",
  "CikisYili": "2014",
  "ResimURL":
-"https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/eth.jpg",
+"https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/imgeth.png",
  "Turu": "Coin"
 },
  {
@@ -30,7 +30,7 @@
  "KriptoAdi": "AC Milan Token",
  "CikisYili": "2019",
  "ResimURL":
-"https://github.com/Rhythmbender/kriptoparaveprojeleri/blob/main/acm.png",
+"https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/imgpsg.jpg",
  "Turu": "Token"
 },
 
@@ -38,6 +38,6 @@
  "KriptoAdi": "Tether",
  "CikisYili": "2014",
  "ResimURL":
-"https://github.com/Rhythmbender/kriptoparaveprojeleri/blob/main/teth.jpg",
+"https://raw.githubusercontent.com/Rhythmbender/kriptoparaveprojeleri/main/imgteth.png",
  "Turu": "Stable Coin"
 }]
